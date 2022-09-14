@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Intro.unity
+    guid: cd69a5ebc3b44bd4393a583b949b2709
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 95ee13ea1bb57fd44bbd17edcbf1003d
+  - enabled: 1
+    path: Assets/ComicStrip2.unity
+    guid: 736189abf3c8da44b842602542660f08
+  - enabled: 1
+    path: Assets/LongRoad.unity
+    guid: 025cceaf726412645bd36ef0c2a6d6f1
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
