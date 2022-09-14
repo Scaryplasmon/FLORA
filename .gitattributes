@@ -9,4 +9,5 @@ file.resS filter=lfs diff=lfs merge=lfs -text
 .resS filter=lfs diff=lfs merge=lfs -text
 *11d filter=lfs diff=lfs merge=lfs -text
 *.11d filter=lfs diff=lfs merge=lfs -text
+*hostMac\11d filter=lfs diff=lfs merge=lfs -text
 *ArtifactDB filter=lfs diff=lfs merge=lfs -text
